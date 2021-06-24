@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = denixer@gmail.com
+	name = Denixer Espinoza
